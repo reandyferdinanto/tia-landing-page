@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d368cbe1-b60e-4506-9d95-d19e8f79d407" name="Changes" comment="change meta tag">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d368cbe1-b60e-4506-9d95-d19e8f79d407" name="Changes" comment="change meta picture">
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       <updated>1731383438879</updated>
       <workItem from="1731383440136" duration="7131000" />
       <workItem from="1731396618584" duration="409000" />
-      <workItem from="1731397067494" duration="6924000" />
+      <workItem from="1731397067494" duration="7107000" />
     </task>
     <task id="LOCAL-00001" summary="CI false">
       <option name="closed" value="true" />
@@ -97,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731405379075</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change meta picture">
+      <option name="closed" value="true" />
+      <created>1731406305197</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731406305197</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +116,8 @@
     <MESSAGE value="edit education" />
     <MESSAGE value="change title" />
     <MESSAGE value="change meta tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="change meta tag" />
+    <MESSAGE value="change meta picture" />
+    <option name="LAST_COMMIT_MESSAGE" value="change meta picture" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
