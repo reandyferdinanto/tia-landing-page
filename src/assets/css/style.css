@@ -532,6 +532,7 @@ h1 span {
     position: absolute;
     top: 113px;
     left: 66px;
+    z-index: 10;
 }
 
 @keyframes rotation {
@@ -548,6 +549,7 @@ h1 span {
     position: absolute;
     top: 0;
     left: -50px;
+    z-index: 10;
     animation: rotation infinite 9s linear;
 }
 
