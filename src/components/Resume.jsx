@@ -76,9 +76,9 @@ const Resume = () => {
                 </div>
               </div>
               <div className="small_yellow_border_main">
-                <p className="bachelor">Master in Design</p>
+                <p className="bachelor">High School</p>
                 <p className="cursus university">
-                  Cambridge University / 2010 - 2014
+                  SMA Angkasa 2 Jakarta
                 </p>
                 <p className="cursus">
                   Eu nulla at mauris cursus consectetur posuere iaculis ipsum
@@ -94,9 +94,9 @@ const Resume = () => {
                 </div>
               </div>
               <div className="small_yellow_border_main">
-                <p className="bachelor">Bachelor in Science</p>
+                <p className="bachelor">Junior High School</p>
                 <p className="cursus university">
-                  Cambridge University / 2014 - 2016
+                  SMP Negeri 34 Bekasi
                 </p>
                 <p className="cursus">
                   Porttitor euismod at semper ut massa. Lorem varius magna
@@ -106,22 +106,22 @@ const Resume = () => {
               </div>
             </div>
             <div className="education position-relative fade_up">
-              <div className="side_circle_ring">
-                <div className="small_yellow_border">
-                  <div className="small_yellow_circle"></div>
-                </div>
-              </div>
-              <div className="small_yellow_border_main">
-                <p className="bachelor">Diploma in Computer</p>
-                <p className="cursus university">
-                  Cambridge University / 2016 - 2018
-                </p>
-                <p className="cursus">
-                  Adipiscing sed magna tempus arcu morbi. Ipsum pellentesque
-                  lorem suscipit in. Hendrerit rhoncus quis tempor urna pharetra
-                  ut erat.
-                </p>
-              </div>
+              {/*<div className="side_circle_ring">*/}
+              {/*  <div className="small_yellow_border">*/}
+              {/*    <div className="small_yellow_circle"></div>*/}
+              {/*  </div>*/}
+              {/*</div>*/}
+              {/*<div className="small_yellow_border_main">*/}
+              {/*  <p className="bachelor">Diploma in Computer</p>*/}
+              {/*  <p className="cursus university">*/}
+              {/*    Cambridge University / 2016 - 2018*/}
+              {/*  </p>*/}
+              {/*  <p className="cursus">*/}
+              {/*    Adipiscing sed magna tempus arcu morbi. Ipsum pellentesque*/}
+              {/*    lorem suscipit in. Hendrerit rhoncus quis tempor urna pharetra*/}
+              {/*    ut erat.*/}
+              {/*  </p>*/}
+              {/*</div>*/}
             </div>
           </div>
           <div className="col-xxl-6 col-lg-6">

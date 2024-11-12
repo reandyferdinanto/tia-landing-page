@@ -359,30 +359,30 @@ const Home = () => {
                 alt="jessica-main-img"
               />
               <div className="worked-box">
-                <p className="worked-more">Worked with more than 100 people</p>
-                <div className="client-img-main position-relative">
-                  <img
-                    className="client-img client-img1"
-                    src={clientImg1}
-                    alt="clients-img1"
-                  />
-                  <img
-                    className="client-img client-img2"
-                    src={clientImg2}
-                    alt="clients-img2"
-                  />
-                  <img
-                    className="client-img client-img3"
-                    src={clientImg3}
-                    alt="clients-img3"
-                  />
-                  <img
-                    className="client-img client-img4"
-                    src={clientImg4}
-                    alt="clients-img4"
-                  />
-                  <p className="worked-more worked-more2"> 100+ Clients</p>
-                </div>
+                <p className="worked-more">Ingin berkolaborasi dengan saya?</p>
+                {/*<div className="client-img-main position-relative">*/}
+                {/*  <img*/}
+                {/*    className="client-img client-img1"*/}
+                {/*    src={clientImg1}*/}
+                {/*    alt="clients-img1"*/}
+                {/*  />*/}
+                {/*  <img*/}
+                {/*    className="client-img client-img2"*/}
+                {/*    src={clientImg2}*/}
+                {/*    alt="clients-img2"*/}
+                {/*  />*/}
+                {/*  <img*/}
+                {/*    className="client-img client-img3"*/}
+                {/*    src={clientImg3}*/}
+                {/*    alt="clients-img3"*/}
+                {/*  />*/}
+                {/*  <img*/}
+                {/*    className="client-img client-img4"*/}
+                {/*    src={clientImg4}*/}
+                {/*    alt="clients-img4"*/}
+                {/*  />*/}
+                {/*  <p className="worked-more worked-more2"> 100+ Clients</p>*/}
+                {/*</div>*/}
               </div>
             </div>
           </div>
