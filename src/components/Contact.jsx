@@ -162,10 +162,11 @@ const Contact = () => {
           </div>
         </div>
         <div className="wrapper blog-btn">
-          <a className="btn-hover" href="#">
+          <div className="btn-hover">
             Submit Now
-          </a>
+          </div>
         </div>
+        {/* eslint-disable-next-line jsx-a11y/iframe-has-title */}
         <iframe
           className="map-iframe"
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11661.278162829134!2d-76.16113884753138!3d43.0557465765357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d9f3add89232d3%3A0x516c4febad79a023!2sNear%20Northeast%2C%20Syracuse%2C%20NY%2013203%2C%20USA!5e0!3m2!1sen!2sin!4v1704092010021!5m2!1sen!2sin"

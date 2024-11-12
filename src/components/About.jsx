@@ -30,22 +30,20 @@ const AboutSection = () => {
           <div className="line"></div>
         </div>
         <p className="section-sub-text about-sub-text zoom_in">
-          Hi, my name is <span>Jessica Biogi</span> and I began using WordPress
-          when first began. I've spent most of my waking hours for the last ten
-          years designing, programming and operating WordPress sites go beyond
-          with exclusive designer. Apart from this I love to travel, mentor
-          designers, review design portfolios & read books on everything related
-          to design. I have also given design talks in various educational
-          institutions. So I love creating creative content, and you can find
-          most of my works here.
+          Hallo, namaku <span>Muthia Falisha Kaerani</span>.
+          Saya adalah seorang pelajar SMA dengan keterampilan mendesain visualisasi produk secara kreatif. Saya sangat menyukai traveling,
+          mengikuti loba desain, membuat portfolio design, dan membaca buku tentang segala hal yang berhubungan dengan desain.
+          membuat konten kreatif merupakan habi saya yang saya tekuni selama 2 tahun terkahir ini, dan Anda dapat menemukan sebagian besar karya saya di sini.
+          <br />
+          Saya menawarkan jasa desain kemasan, jasa desain merchandise, dan jasa desain logo untuk membantu produk dan bisnis Anda tampil lebih menarik dan profesional.
         </p>
         <div className="about-detail-main">
-          <p className="about-detail">Name</p>
-          <p className="about-detail-info">Jessica Biogi</p>
+          <p className="about-detail">Nama</p>
+          <p className="about-detail-info">Muthia Falisha Kaerani</p>
         </div>
         <div className="about-detail-main">
           <p className="about-detail">Nationality</p>
-          <p className="about-detail-info">USA</p>
+          <p className="about-detail-info">Indonesia</p>
         </div>
         <div className="about-detail-main">
           <p className="about-detail">Phone</p>
@@ -53,7 +51,7 @@ const AboutSection = () => {
             className="about-detail-info email"
             onClick="location.href='tel:(+1)2345678899'"
           >
-            (+1) 234 567 8899
+            (+62) 234 567 8899
           </p>
         </div>
         <div className="about-detail-main">
@@ -62,24 +60,24 @@ const AboutSection = () => {
             className="about-detail-info email"
             onClick="location.href='mailto:hello@biogi.com'"
           >
-            hello@biogi.com
+            muthia@gmail.com
           </p>
         </div>
         <div className="about-detail-main">
           <p className="about-detail">Experience</p>
-          <p className="about-detail-info">6+ years</p>
+          <p className="about-detail-info">2+ years</p>
         </div>
         <div className="about-detail-main">
           <p className="about-detail">Freelance</p>
           <p className="about-detail-info">Available</p>
         </div>
-        <div className="about-detail-main">
-          <p className="about-detail">Skype</p>
-          <p className="about-detail-info">hello.biogi</p>
-        </div>
+        {/*<div className="about-detail-main">*/}
+        {/*  <p className="about-detail">Skype</p>*/}
+        {/*  <p className="about-detail-info">hello.biogi</p>*/}
+        {/*</div>*/}
         <div className="about-detail-main">
           <p className="about-detail">Language</p>
-          <p className="about-detail-info">English</p>
+          <p className="about-detail-info">Indoensia / English</p>
         </div>
       </section>
       {/* <!-- ====================================== Section About End ===================================== --> */}
